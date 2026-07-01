@@ -26,28 +26,6 @@ The project demonstrates the evolution from traditional sentiment analysis to mo
 
 ---
 
-#  Project Structure
-
-```
-ABSA/
-│
-├── NLP_ABSA.ipynb
-├── semeval_absa.csv
-├── amazon_reviews_clean.csv
-├── bert_sentiment_model/
-│
-├── outputs/
-│   ├── absa_results.csv
-│   ├── graphs
-│   └── evaluation_results
-│
-├── README.md
-│
-└── requirements.txt
-```
-
----
-
 #  Technologies Used
 
 ### Programming Language
